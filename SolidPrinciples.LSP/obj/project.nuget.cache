@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrDbqdz/WM/DG94d2Tai10rTmF/3q3VOu28ZhFTy9qUV3uytD3Nq3Y2XNWxchQ6OxLWMJ6FR227au1jsVC5N5Q==",
+  "success": true,
+  "projectFilePath": "/Volumes/T7/T7-Indirilenler/SolidPrinciples-master/SolidPrinciples.LSP/SolidPrinciples.LSP.csproj",
+  "expectedPackageFiles": [
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
